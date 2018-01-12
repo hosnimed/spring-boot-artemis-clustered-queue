@@ -19,13 +19,15 @@ ${producer-home}  $ mvn spring-boot:run -Dspring.profiles.active=local
 ${cosnsumer-home} $ mvn spring-boot:run -Dspring.profiles.active=local
 ```
 
-# [ Optional ]  Run the project in `Cluster` Mode
+# Run the project in `Cluster` Mode
 
 
 **Create the Cluster Brokers**
 
 ```sh
 $ ${apache-artemis-home}\bin\artemis create --force ${apache-artemis-broker-dest}\broker1
+$ ${apache-artemis-home}\bin\artemis create --force ${apache-artemis-broker-dest}\broker2
+$ ${apache-artemis-home}\bin\artemis create --force ${apache-artemis-broker-dest}\broker3
 ```
 
 **Configure Cluster Brokers**
