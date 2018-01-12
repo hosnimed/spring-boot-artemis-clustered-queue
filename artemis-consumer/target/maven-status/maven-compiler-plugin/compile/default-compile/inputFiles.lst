@@ -1,0 +1,4 @@
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-demo/artemis-consumer/src/main/java/com/sbm/artemis/demo/jms/ArtemisClusterConfig.java
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-demo/artemis-consumer/src/main/java/com/sbm/artemis/demo/jms/Person.java
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-demo/artemis-consumer/src/main/java/com/sbm/artemis/demo/SpringBootArtemisConsumerApplication.java
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-demo/artemis-consumer/src/main/java/com/sbm/artemis/demo/jms/ArtemisConsumer.java

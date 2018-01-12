@@ -1,0 +1,4 @@
+com/sbm/artemis/demo/SpringBootArtemisConsumerApplication.class
+com/sbm/artemis/demo/jms/ArtemisConsumer.class
+com/sbm/artemis/demo/jms/ArtemisClusterConfig.class
+com/sbm/artemis/demo/jms/Person.class
