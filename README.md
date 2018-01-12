@@ -1,5 +1,5 @@
 # Spring Boot Artemis Clustered Queue
-  A sample project to demonstrate the asynchronous communication between two spring boot apps producer and consumer through Apache ActiveMQ Artemis 2.4.0
+  A sample project to demonstrate the asynchronous communication between two spring boot apps producer and consumer through Apache ActiveMQ Artemis 2.4.0 using queue in a cluster mode.
 
 # Introduction
 - Apache ActiveMQ Artemis is a combined feature-set of ActiveMQ/HornetQ/Apollo. It provides a non blocking architecture for an outstanding performance.
